@@ -1,4 +1,4 @@
-ck_contao-navigations
+ck_contao-navigationpatterns
 =====================
 
-A collection of navigation modules for Contao CMS
+A collection of navigation modules and patterns for Contao CMS
